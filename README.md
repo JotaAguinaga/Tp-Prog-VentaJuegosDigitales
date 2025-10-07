@@ -1,4 +1,7 @@
 # Tp-Prog-VentaJuegosDigitales
+Tienda Virtual de Venta de juegos digitales
+La pagina debe poder vender copias de juegos (de formato digital) para multiples plataformas de videojuegos. Debera gestionar multiples pedidos de juegos, generar facturas y cargarlas a una base de datos para tener registro de las compras.
+
 Entidades principales:
 -Cliente → los usuarios que compran juegos
 -Juego → los productos digitales a la venta
