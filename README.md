@@ -17,3 +17,21 @@ Relaciones:
 -Un juego puede estar en muchos pedidos
 -Un pedido tiene un método de pago → (N a 1)
 -Un juego pertenece a una plataforma → (N a 1)
+
+DER:
+<img width="935" height="618" alt="image" src="https://github.com/user-attachments/assets/9d3a9791-a52c-4ad9-a2a4-36e142131805" />
+
+Doc drive:
+https://docs.google.com/document/d/1GM5X5mPZlvRYGbJvCl9mWF3hcZ_So_T8BPoKl4t9tVU/edit?usp=sharing
+
+Integracion de c/capa en la base de datos
+
+-El usuario ingresa los datos en la capa de presentación.
+
+-La capa de presentación envía la información a la capa de negocio.
+
+-La capa de negocio valida los datos y llama a la capa de datos.
+
+-La capa de datos guarda la información en la base de datos.
+
+-La capa de presentación muestra un mensaje de confirmación al usuario.
