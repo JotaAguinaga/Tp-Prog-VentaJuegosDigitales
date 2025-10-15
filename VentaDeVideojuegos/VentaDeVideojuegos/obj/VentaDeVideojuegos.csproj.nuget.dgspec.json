@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj": {}
+    "D:\\GitHUB\\Tp-Prog\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj": {}
   },
   "projects": {
-    "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj": {
+    "D:\\GitHUB\\Tp-Prog\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj",
+        "projectUniqueName": "D:\\GitHUB\\Tp-Prog\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj",
         "projectName": "VentaDeVideojuegos",
-        "projectPath": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj",
-        "packagesPath": "C:\\Users\\ivopa\\.nuget\\packages\\",
-        "outputPath": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\obj\\",
+        "projectPath": "D:\\GitHUB\\Tp-Prog\\VentaDeVideojuegos\\VentaDeVideojuegos\\VentaDeVideojuegos.csproj",
+        "packagesPath": "C:\\Users\\cuent\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHUB\\Tp-Prog\\VentaDeVideojuegos\\VentaDeVideojuegos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ivopa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cuent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,11 +44,27 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -65,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
