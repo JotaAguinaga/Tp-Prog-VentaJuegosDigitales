@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66FB5C13-C214-4B05-BBC3-2BA95C26A6B4}|VentaDeVideojuegos\\VentaDeVideojuegos.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\ventadevideojuegos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66FB5C13-C214-4B05-BBC3-2BA95C26A6B4}|VentaDeVideojuegos\\VentaDeVideojuegos.csproj|solutionrelative:ventadevideojuegos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|c:\\repositorios\\repos\\tp-prog-ventajuegosdigitales\\ventadevideojuegos\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3180EDA9-BBA0-4ACE-91A7-E9932ED46A1D}|Clases\\Clases.csproj|solutionrelative:clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Envio.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Envio.cs",
+              "RelativeDocumentMoniker": "Clases\\Envio.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Envio.cs",
+              "RelativeToolTip": "Clases\\Envio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:37:46.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoProducto.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\PedidoProducto.cs",
+              "RelativeDocumentMoniker": "Clases\\PedidoProducto.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\PedidoProducto.cs",
+              "RelativeToolTip": "Clases\\PedidoProducto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:37:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Pedido.cs",
+              "RelativeDocumentMoniker": "Clases\\Pedido.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Pedido.cs",
+              "RelativeToolTip": "Clases\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:36:27.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\FormaPago.cs",
+              "RelativeDocumentMoniker": "Clases\\FormaPago.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\FormaPago.cs",
+              "RelativeToolTip": "Clases\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:35:54.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Producto.cs",
+              "RelativeDocumentMoniker": "Clases\\Producto.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Producto.cs",
+              "RelativeToolTip": "Clases\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:35:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Proovedor.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Proovedor.cs",
+              "RelativeDocumentMoniker": "Clases\\Proovedor.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Proovedor.cs",
+              "RelativeToolTip": "Clases\\Proovedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:34:49.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Administrador.cs",
+              "RelativeDocumentMoniker": "Clases\\Administrador.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Administrador.cs",
+              "RelativeToolTip": "Clases\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:33:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Empleado.cs",
+              "RelativeDocumentMoniker": "Clases\\Empleado.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Empleado.cs",
+              "RelativeToolTip": "Clases\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:32:10.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Cliente.cs",
+              "RelativeDocumentMoniker": "Clases\\Cliente.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Cliente.cs",
+              "RelativeToolTip": "Clases\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:31:26.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Clases\\Persona.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\Clases\\Persona.cs",
+              "RelativeToolTip": "Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:28:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\Program.cs",
+              "RelativeDocumentMoniker": "VentaDeVideojuegos\\Program.cs",
+              "ToolTip": "C:\\Repositorios\\Repos\\Tp-Prog-VentaJuegosDigitales\\VentaDeVideojuegos\\VentaDeVideojuegos\\Program.cs",
+              "RelativeToolTip": "VentaDeVideojuegos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T09:28:03.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
