@@ -13,13 +13,9 @@ namespace ClasesTienda.Entidades
     {
         [Key]
         public int Id { get; set; }
-
         public string Descripcion { get; set; }
-
-        // 🔗 Relación uno a uno con Envio
-        public Envio Envio { get; set; }
-
-        // 🔗 Relación muchos a muchos con productos
-        public ICollection<PedidoProducto> PedidoProductos { get; set; }
+        public List<Producto> Productos { get; set; }
+        public FormaPago FormaPago { get; set; }
+        public Cliente Cliente { get; set; }
     }
 }
