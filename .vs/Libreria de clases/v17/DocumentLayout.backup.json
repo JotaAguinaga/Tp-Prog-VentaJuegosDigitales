@@ -3,30 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\pedidoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,8 +11,32 @@
       "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\envio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|solutionrelative:libreria de clases\\modelo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B068A1B9-1C0E-401C-9AE6-417B071E5706}|Libreria de clases\\Libreria de clases.csproj|c:\\users\\lucio\\onedrive\\escritorio\\new folder (2)\\tp-prog-ventajuegosdigitales\\libreria de clases\\modelo\\proovedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,11 +90,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Administrador.cs",
+              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Administrador.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Administrador.cs",
+              "RelativeToolTip": "Libreria de clases\\modelo\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:36:59.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Cliente.cs",
+              "RelativeToolTip": "Libreria de clases\\modelo\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:36:54.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PedidoProducto.cs",
               "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\PedidoProducto.cs",
               "RelativeDocumentMoniker": "Libreria de clases\\modelo\\PedidoProducto.cs",
@@ -115,12 +139,23 @@
               "RelativeToolTip": "Libreria de clases\\modelo\\FormaPago.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:35:01.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T22:35:01.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Pedido.cs",
+              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Pedido.cs",
+              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Pedido.cs",
+              "RelativeToolTip": "Libreria de clases\\modelo\\Pedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T21:54:35.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Persona.cs",
               "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Persona.cs",
@@ -132,33 +167,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Data\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "Libreria de clases\\Data\\AplicationDbContext.cs",
               "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Data\\AplicationDbContext.cs",
               "RelativeToolTip": "Libreria de clases\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA7wDsAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T16:06:20.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T16:06:20.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Envio.cs",
               "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Envio.cs",
               "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Envio.cs",
               "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Envio.cs",
               "RelativeToolTip": "Libreria de clases\\modelo\\Envio.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:53:38.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T21:53:38.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Empleado.cs",
               "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Empleado.cs",
@@ -166,46 +199,7 @@
               "RelativeToolTip": "Libreria de clases\\modelo\\Empleado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:36:48.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Administrador.cs",
-              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Administrador.cs",
-              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Administrador.cs",
-              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Administrador.cs",
-              "RelativeToolTip": "Libreria de clases\\modelo\\Administrador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:36:59.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Cliente.cs",
-              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Cliente.cs",
-              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Cliente.cs",
-              "RelativeToolTip": "Libreria de clases\\modelo\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T22:36:54.301Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Pedido.cs",
-              "RelativeDocumentMoniker": "Libreria de clases\\modelo\\Pedido.cs",
-              "ToolTip": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\modelo\\Pedido.cs",
-              "RelativeToolTip": "Libreria de clases\\modelo\\Pedido.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T21:54:35.396Z"
+              "WhenOpened": "2025-10-22T22:36:48.053Z"
             },
             {
               "$type": "Document",

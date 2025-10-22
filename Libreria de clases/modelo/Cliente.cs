@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Clases;
 public class Cliente : Persona
 {
-    public int IdCliente { get; set; }
+    public int Id { get; set; }
     public string Direccion { get; set; }
     public string TipoCliente { get; set; }
 }

@@ -7,6 +7,6 @@ using System.Threading.Tasks;
 namespace Clases;
 public class FormaPago
 {
-    public int IdFormaPago { get; set; }
+    public int Id { get; set; }
     public string Descripcion { get; set; }
 }

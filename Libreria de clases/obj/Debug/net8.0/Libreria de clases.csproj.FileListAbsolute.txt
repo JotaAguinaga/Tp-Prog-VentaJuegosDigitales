@@ -12,3 +12,33 @@ C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\Libreria 
 C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\Libreria de clases\Libreria de clases\obj\Debug\net8.0\Libreria de clases.pdb
 C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\Libreria de clases\Libreria de clases\obj\Debug\net8.0\Libreria de clases.genruntimeconfig.cache
 C:\Users\cuent\OneDrive\Escritorio\Escuela ICES\2025\Programacion I\C#\Libreria de clases\Libreria de clases\obj\Debug\net8.0\ref\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\bin\Debug\net8.0\Libreria de clases.deps.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\bin\Debug\net8.0\Libreria de clases.runtimeconfig.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\bin\Debug\net8.0\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\bin\Debug\net8.0\Libreria de clases.pdb
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.sourcelink.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\refint\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.pdb
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\Libreria de clases.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\LibreriaDeClases\obj\Debug\net8.0\ref\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.deps.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.runtimeconfig.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.pdb
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.csproj.AssemblyReference.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.AssemblyInfoInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.AssemblyInfo.cs
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.csproj.CoreCompileInputs.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.sourcelink.json
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\refint\Libreria de clases.dll
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.pdb
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.genruntimeconfig.cache
+C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\ref\Libreria de clases.dll

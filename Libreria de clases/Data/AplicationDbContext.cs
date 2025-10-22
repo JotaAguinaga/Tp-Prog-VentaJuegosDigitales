@@ -1,10 +1,11 @@
-﻿using System;
+﻿using Clases;
+using ClasesTienda.Entidades;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Clases;
-using Microsoft.EntityFrameworkCore;
 
 namespace Libreria_de_clases.Data
 {
@@ -25,9 +26,39 @@ namespace Libreria_de_clases.Data
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(
-                    "Server=(localdb)\\MSSQLLocalDB;Database=Venta_JuegosOnline;Trusted_Connection=True;TrustServerCertificate=True"
+                    "Server=localhost\\SQLEXPRESS;Database=Venta_JuegosOnline;Trusted_Connection=True;TrustServerCertificate=True;"
                 );
             }
         }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+
+            modelBuilder.Entity<Pedido>()
+                .HasOne(p => p.Envio)
+                .WithOne(e => e.Pedido)
+                .HasForeignKey<Envio>(e => e.PedidoId);
+
+
+            modelBuilder.Entity<PedidoProducto>()
+                .HasKey(pp => new { pp.Id, pp.IdProducto });
+
+
+            modelBuilder.Entity<PedidoProducto>()
+                .HasOne(pp => pp.Pedido)
+                .WithMany(p => p.PedidoProductos)
+                .HasForeignKey(pp => pp.Id);
+
+            modelBuilder.Entity<PedidoProducto>()
+                .HasOne(pp => pp.Producto)
+                .WithMany()
+                .HasForeignKey(pp => pp.IdProducto);
+
+            // ✅ Esta línea nueva
+            modelBuilder.Entity<Envio>()
+                .HasKey(e => e.Id);
+        }
+
     }
 }

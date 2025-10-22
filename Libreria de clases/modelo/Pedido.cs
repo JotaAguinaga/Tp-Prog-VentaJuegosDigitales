@@ -1,18 +1,25 @@
-﻿using System;
+﻿using Clases;
+using System;
 using System.Collections.Generic;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Clases;
-public class Pedido
+namespace ClasesTienda.Entidades
 {
-    public int IdPedido { get; set; }
-    public DateTime Fecha { get; set; }
-    public int IdCliente { get; set; }
-    public Cliente Cliente { get; set; }
-    public int IdFormaPago { get; set; }
-    public FormaPago FormaPago { get; set; }
-    public List<PedidoProducto> PedidoProductos { get; set; }
-    public Envio Envio { get; set; }
+    public class Pedido
+    {
+        [Key]
+        public int Id { get; set; }
+
+        public string Descripcion { get; set; }
+
+        // 🔗 Relación uno a uno con Envio
+        public Envio Envio { get; set; }
+
+        // 🔗 Relación muchos a muchos con productos
+        public ICollection<PedidoProducto> PedidoProductos { get; set; }
+    }
 }

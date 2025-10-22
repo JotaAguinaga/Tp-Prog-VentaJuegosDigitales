@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Clases;
 public class PedidoProducto
 {
-    public int IdPedido { get; set; }
+    public int Id { get; set; }
     public Pedido Pedido { get; set; }
     public int IdProducto { get; set; }
     public Producto Producto { get; set; }

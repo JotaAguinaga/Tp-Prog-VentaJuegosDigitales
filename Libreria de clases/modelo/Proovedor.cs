@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Clases;
 public class Proveedor
 {
-    public int IdProveedor { get; set; }
+    public int Id { get; set; }
     public string NombreEmpresa { get; set; }
     public string Contacto { get; set; }
     public string Email { get; set; }
