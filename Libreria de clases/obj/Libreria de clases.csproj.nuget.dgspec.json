@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cuent\\OneDrive\\Escritorio\\Escuela ICES\\2025\\Programacion I\\C#\\Libreria de clases\\Libreria de clases\\Libreria de clases.csproj": {}
+    "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Libreria de clases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cuent\\OneDrive\\Escritorio\\Escuela ICES\\2025\\Programacion I\\C#\\Libreria de clases\\Libreria de clases\\Libreria de clases.csproj": {
+    "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Libreria de clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cuent\\OneDrive\\Escritorio\\Escuela ICES\\2025\\Programacion I\\C#\\Libreria de clases\\Libreria de clases\\Libreria de clases.csproj",
+        "projectUniqueName": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Libreria de clases.csproj",
         "projectName": "Libreria de clases",
-        "projectPath": "C:\\Users\\cuent\\OneDrive\\Escritorio\\Escuela ICES\\2025\\Programacion I\\C#\\Libreria de clases\\Libreria de clases\\Libreria de clases.csproj",
-        "packagesPath": "C:\\Users\\cuent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cuent\\OneDrive\\Escritorio\\Escuela ICES\\2025\\Programacion I\\C#\\Libreria de clases\\Libreria de clases\\obj\\",
+        "projectPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\Libreria de clases.csproj",
+        "packagesPath": "C:\\Users\\lucio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucio\\OneDrive\\Escritorio\\New folder (2)\\Tp-Prog-VentaJuegosDigitales\\Libreria de clases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\cuent\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
