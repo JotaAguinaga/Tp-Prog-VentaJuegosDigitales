@@ -1,4 +1,6 @@
-﻿using System;
+﻿using ClasesTienda.Entidades;
+using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,15 +17,19 @@ namespace Libreria_de_clases.Repositories
             _context = context;
         }
 
-        public void Agregar(Clases.Pedido pedido)
+        public void Agregar(Pedido pedido)
         {
             _context.Pedidos.Add(pedido);
             _context.SaveChanges();
         }
 
-        public List<Clases.Pedido> ObtenerTodos()
+        public List<Pedido> ObtenerTodos()
         {
-            return _context.Pedidos.ToList();
+            return _context.Pedidos
+                           .Include(p => p.Cliente)
+                           .Include(p => p.FormaPago)
+                           .Include(p => p.Productos)
+                           .ToList();
         }
     }
 }
