@@ -3,22 +3,27 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Libreria_de_clases.Data;
+
 
 namespace Libreria_de_clases.Repositories
 {
     public class ClienteRepositorio
     {
-        private readonly Data.AplicationDbContext _context;
+        private readonly AplicationDbContext _context;
 
-        public ClienteRepositorio(Data.AplicationDbContext context)
+        public ClienteRepositorio(AplicationDbContext context)
         {
             _context = context;
         }
 
-        public void Agregar(Clases.Cliente cliente)
+        public void AgregarCliente(Clases.Cliente cliente)
         {
-            _context.Clientes.Add(cliente);
-            _context.SaveChanges();
+            using (var context = new AplicationDbContext()) 
+            {
+                context.Clientes.Add(cliente);
+                context.SaveChanges();
+            }
         }
 
         public List<Clases.Cliente> ObtenerTodos()

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Libreria_de_clases.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,22 +9,22 @@ namespace Libreria_de_clases.Repositories
 {
     public class ProductoRepositorio
     {
-        private readonly Data.AplicationDbContext _context;
-
-        public ProductoRepositorio(Data.AplicationDbContext context)
+        
+        public void AgregarProducto(Clases.Producto producto)
         {
-            _context = context;
+            using (var context = new AplicationDbContext())
+            {
+                context.Productos.Add(producto);
+                context.SaveChanges();
+            }
         }
 
-        public void Agregar(Clases.Producto producto)
+        public void MostrarProducto(Clases.Producto producto)
         {
-            _context.Productos.Add(producto);
-            _context.SaveChanges();
-        }
-
-        public List<Clases.Producto> ObtenerTodos()
-        {
-            return _context.Productos.ToList();
+            using (var context = new AplicationDbContext()) 
+            { 
+                context.Productos.ToList();
+            }
         }
     }
 }
