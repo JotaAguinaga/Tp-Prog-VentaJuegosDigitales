@@ -42,3 +42,18 @@ C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\L
 C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.pdb
 C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.genruntimeconfig.cache
 C:\Users\lucio\OneDrive\Escritorio\New folder (2)\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\ref\Libreria de clases.dll
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.csproj.AssemblyReference.cache
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.AssemblyInfoInputs.cache
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.AssemblyInfo.cs
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.csproj.CoreCompileInputs.cache
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.sourcelink.json
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.dll
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\refint\Libreria de clases.dll
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.pdb
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.deps.json
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.runtimeconfig.json
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.dll
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\bin\Debug\net8.0\Libreria de clases.pdb
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\Libreria de clases.genruntimeconfig.cache
+D:\GitHUB\Tp-Prog-VentaJuegosDigitales\Libreria de clases\obj\Debug\net8.0\ref\Libreria de clases.dll

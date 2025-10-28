@@ -21,9 +21,6 @@ namespace Libreria_de_clases.Repositories
             _context.SaveChanges();
         }
 
-        public List<Clases.FormaPago> ObtenerTodos()
-        {
-            return _context.FormasPago.ToList();
-        }
+        public List<Clases.FormaPago> ObtenerTodos() => _context.FormasPago.ToList();
     }
 }

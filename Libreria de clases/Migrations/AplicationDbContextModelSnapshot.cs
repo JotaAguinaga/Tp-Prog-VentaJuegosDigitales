@@ -34,11 +34,9 @@ namespace Libreria_de_clases.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("DNI")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Direccion")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
@@ -50,7 +48,6 @@ namespace Libreria_de_clases.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Telefono")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");

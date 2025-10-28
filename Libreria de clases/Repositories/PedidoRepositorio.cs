@@ -23,13 +23,10 @@ namespace Libreria_de_clases.Repositories
             _context.SaveChanges();
         }
 
-        public List<Pedido> ObtenerTodos()
-        {
-            return _context.Pedidos
+        public List<Pedido> ObtenerTodos() => _context.Pedidos
                            .Include(p => p.Cliente)
                            .Include(p => p.FormaPago)
                            .Include(p => p.Productos)
                            .ToList();
-        }
     }
 }

@@ -9,7 +9,10 @@ namespace Libreria_de_clases.Repositories
 {
     public class ProductoRepositorio
     {
-        
+        public ProductoRepositorio(AplicationDbContext aplicationDbContext)
+        {
+        }
+
         public void AgregarProducto(Clases.Producto producto)
         {
             using (var context = new AplicationDbContext())

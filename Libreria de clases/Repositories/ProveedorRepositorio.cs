@@ -21,9 +21,6 @@ namespace Libreria_de_clases.Repositories
             _context.SaveChanges();
         }
 
-        public List<Clases.Proveedor> ObtenerTodos()
-        {
-            return _context.Proveedores.ToList();
-        }
+        public List<Clases.Proveedor> ObtenerTodos() => _context.Proveedores.ToList();
     }
 }

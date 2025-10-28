@@ -22,10 +22,11 @@ namespace Libreria_de_clases.Data
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder.UseSqlServer(
-                    "Server=localhost\\SQLEXPRESS;Database=Venta_JuegosOnline;Trusted_Connection=True;TrustServerCertificate=True;"
+                    "Server=(localdb)\\MSSQLLocalDB;Database=Venta_JuegosOnline;Trusted_Connection=True;TrustServerCertificate=True;"
                 );
             }
         }
+
 
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Clases;
 using Libreria_de_clases.Data;
 
 
@@ -17,18 +18,38 @@ namespace Libreria_de_clases.Repositories
             _context = context;
         }
 
-        public void AgregarCliente(Clases.Cliente cliente)
+        public ClienteRepositorio()
         {
-            using (var context = new AplicationDbContext()) 
+        }
+
+        // 🔹 Alta (Agregar cliente)
+        public void Agregar(Cliente cliente)
+        {
+            _context.Clientes.Add(cliente);
+            _context.SaveChanges();
+        }
+
+        // 🔹 Baja (Eliminar cliente)
+        public void Eliminar(int id)
+        {
+            var cliente = _context.Clientes.FirstOrDefault(c => c.Id == id);
+            if (cliente != null)
             {
-                context.Clientes.Add(cliente);
-                context.SaveChanges();
+                _context.Clientes.Remove(cliente);
+                _context.SaveChanges();
             }
         }
 
-        public List<Clases.Cliente> ObtenerTodos()
+        // 🔹 Listar todos
+        public List<Cliente> ObtenerTodos()
         {
             return _context.Clientes.ToList();
+        }
+
+        // 🔹 Buscar por ID
+        public Cliente ObtenerPorId(int id)
+        {
+            return _context.Clientes.FirstOrDefault(c => c.Id == id);
         }
     }
 }
